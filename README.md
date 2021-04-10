@@ -1,4 +1,4 @@
-# Projeto Lessons Learned
+# [💻] Projeto Lessons Learned
 
 Meu primeiro projeto na Trybe :)
 
